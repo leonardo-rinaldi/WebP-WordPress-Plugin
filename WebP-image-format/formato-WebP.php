@@ -1,9 +1,9 @@
 <?php
 
 /*
-Plugin Name:    Formato immagine WebP
+Plugin Name:    WebP image format
 Version:        1.0.0
-Description:    Permette l'utilizzo di immagini in formato WebP su WordPress
+Description:    This plugin enable to upload webp file
 Author:         Leonardo Rinaldi
 Author URI:     https://www.leonardorinaldi.io
 */
