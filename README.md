@@ -2,7 +2,7 @@
 
 This simple plugin enable you to upload WebP image in Wordpress without any problems.
 
-##Installation
+## Installation
 
 You simple need to download the WebP-image-format.zip file and upload it in the plugin section of the wordpress dashboard menu.
 
