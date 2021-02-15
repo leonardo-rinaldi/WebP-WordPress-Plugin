@@ -1,6 +1,6 @@
 # WebP WordPress Plugin
 
-This simple plugin enable you to upload WebP image in Wordpress without any problems.
+This simple plugin enable you to upload WebP images in Wordpress without any problems.
 
 ## Installation
 
